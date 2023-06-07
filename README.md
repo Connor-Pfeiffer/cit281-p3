@@ -39,5 +39,3 @@ You will be creating a "coinage" code module that is capable of calculating the 
 
 5. .gitignore (screenshot)
 ![gitignore.png](gitignore.png)
-
-6. [p1-random.js](p1-random.js)
