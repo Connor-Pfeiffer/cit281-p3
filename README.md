@@ -3,6 +3,8 @@
 
 ## Learning Objectives:
 
+After completing this project, you will:
+
 1. Gain experience interpreting functional descriptions and specifications to complete an assignment
 
 2. Gain experience breaking a project into manageable components
