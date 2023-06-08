@@ -35,7 +35,7 @@ You will be creating a "coinage" code module that is capable of calculating the 
 
 2. [p3-server.js](p3-server.js)
 
-3. [index.html](index.html)
+3. [index.html Code](IndexHTML.txt)
 
 4. [package.json](package.json)
 
